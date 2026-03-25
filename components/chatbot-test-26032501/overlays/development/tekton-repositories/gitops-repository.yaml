@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: chatbot-test-26032501-gitops-repository
+spec:
+  url: https://github.com/fpetk-rolling-demo/chatbot-test-26032501-gitops
